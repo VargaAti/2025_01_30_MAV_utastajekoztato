@@ -1,0 +1,9 @@
+table {
+    border: 1px solid;
+    border-collapse: collapse;
+  }
+table {
+    width: 80%;
+    background-color: green;
+    color:white;
+  }
