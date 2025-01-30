@@ -3,7 +3,9 @@ table {
     border-collapse: collapse;
   }
 table {
-    width: 80%;
+    width: 80%; /* weboldal szélessége */
     background-color: green;
     color:white;
+    font-family: 'Courier New';
+    font-size: 30px;
   }
