@@ -1,0 +1,61 @@
+body{
+  background-color: rgba(0, 0, 0, 0.801);
+}
+table, th, td {
+  border: 1px soli;
+    border-collapse: collapse;
+  }
+table {
+    width: 100%; /* weboldal szélessége */
+    color:white;
+    font-family: "Calibri";
+    font-size: 30px;
+    text-align: center;
+  }
+
+  #ido {
+    width: 10%;
+    background-color: white;
+    color: #3c6382;
+  }
+
+  #abfahrt {
+    text-align: center;
+    width: 25%;
+  }
+
+  .kozeprez {
+    text-align: center;
+  }
+
+  #logo {
+    text-align: right;
+  }
+
+  .tervezett_varhato {
+    font-size: 15px;
+    text-align: left;
+  }
+
+  #vonat {
+    text-align: left;
+  }
+
+  .balraz {
+    text-align: left;
+  }
+
+  tbody {
+    background-color: #25AA62;
+    tr:nth-child(even) {
+      background-color: #2E642C;
+    }
+  }
+
+  .vonattipus {
+    text-align: left;
+    padding-left: 20px;
+  }
+  thead {
+    background-color: #2E642C;
+  }
