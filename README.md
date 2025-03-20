@@ -19,4 +19,4 @@ Használat:
 Egyszerűen nyisd meg a `https://vargaati.github.io/2025_01_30_MAV_utastajekoztato/index_indulo.html` oldalt a böngésződben.
 
 ❌ A felületen látható adatok nem valósak! ❌
-Készítette: Varga Attila 👑
+## Készítette: Varga Attila 👑
